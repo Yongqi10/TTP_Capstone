@@ -1,0 +1,1 @@
+# use this: npm install semantic-ui-react semantic-ui-css to install semantic ui

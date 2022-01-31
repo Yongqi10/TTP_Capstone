@@ -1,0 +1,33 @@
+{
+  "name": "capstone-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michael-Loren/Capstone-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michael-Loren/Capstone-back/issues"
+  },
+  "homepage": "https://github.com/Michael-Loren/Capstone-back#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "cros": "^1.0.1",
+    "dotenv": "^14.3.0",
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.14.1"
+  }
+}
