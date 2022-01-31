@@ -1,6 +1,6 @@
 
--This is a full stack application that allow customers place orders like another restaurant web page.
--Used React.js for the user interface such as login, menu, and cart page.
+- This is a full stack application that allow customers place orders like another restaurant web page.
+- Used React.js for the user interface such as login, menu, and cart page.
 
 # User Stories
 
